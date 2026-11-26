@@ -9,7 +9,7 @@ fig = plt.figure(figsize=(GW * MM, GH * MM))
 bg = fig.add_axes([0, 0, 1, 1]); bg.set_xlim(0, GW); bg.set_ylim(GH, 0); bg.axis("off")
 def axmm(x, y, w, h, **kw): return fig.add_axes([x / GW, 1 - (y + h) / GH, w / GW, h / GH], **kw)
 
-bg.text(GW / 2, 7, "Upland greening widens the apparent vegetation decline in drawdown zones", fontsize=11, fontweight="bold", ha="center", va="center", color=INK)
+bg.text(GW / 2, 7, "Upland greening widens the apparent decline in drawdown-zone greenness at Yangtze reservoirs", fontsize=11, fontweight="bold", ha="center", va="center", color=INK)
 bg.plot([3, GW - 3], [14, 14], color=INK, lw=1.2)
 cols = [(3, 63, P["salmon"], DK["red"], "1", "Drawdown zone minus upland"), (69, 62, P["blue"], DK["blue"], "2", "Bounds on the effect"), (137, 60, P["teal"], DK["teal"], "3", "Where steep decline occurs")]
 for x0, w, c1, c2, n, t in cols:
