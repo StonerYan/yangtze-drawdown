@@ -1,6 +1,6 @@
 # yangtze-drawdown
 
-Code and derived datasets for the study **"Upland Greening Widens the Apparent Vegetation Decline in Yangtze Reservoir Drawdown Zones"**.
+Code and derived datasets for the study **"Upland Greening Widens the Apparent Decline in Drawdown-Zone Greenness at Yangtze Reservoirs"**.
 
 ## Repository Structure
 
