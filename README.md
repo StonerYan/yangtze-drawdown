@@ -1,6 +1,6 @@
-# yangtze-drawdown
+# Upland Greening and Reservoir Drawdown-Zone Greenness in the Yangtze Basin
 
-Code and derived datasets for the study **"Upland Greening and Reservoir Drawdown-Zone Greenness in the Yangtze Basin"**.
+Code and derived datasets for the study **"Upland Greening Widens the Apparent Decline in Drawdown-Zone Greenness at Yangtze Reservoirs"**.
 
 ## Repository Structure
 
